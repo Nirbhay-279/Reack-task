@@ -1,4 +1,4 @@
-# Deloyed Link - https://ethnusreact.netlify.app/
+# Deloyed Link - [https://ethnusreact.netlify.app/](https://react-task-279.netlify.app/)
 
 # Getting Started with Create React App
 
